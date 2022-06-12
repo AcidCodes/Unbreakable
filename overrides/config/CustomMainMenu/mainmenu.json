@@ -1,0 +1,164 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "menu:logo.png",
+            "posX" : -246,
+            "posY" : -100,
+            "width" : 500,
+            "height" : 333,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 120,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -100,
+            "posY" : 144,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "Pack":
+        {
+            "text" : "Unbreakable Release 1.11",
+            "posX" : 5,
+            "posY" : -34,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        
+        "Mods":
+        {
+            "text" : "#modsloaded# mods loaded with #modsactive# active",
+            "posX" : 5,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        
+        "Minecraft Version":
+        {
+            "text" : "Minecraft #mcversion#",
+            "posX" : 5,
+            "posY" : -22,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "Credits":
+        {
+            "text" : "Credits",
+            "posX" : -35,
+            "posY" : -10,
+            "color" : -1,
+            "hoverColor" : -256,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.ucredits1"
+            }
+        },
+
+        "RickRoll":
+        {
+            "text" : "        ",
+            "posX" : -30,
+            "posY" : -535,
+            "color" : -1,
+            "hoverColor" : -256,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.rickmenu"
+            }
+        }
+
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 200,
+            "posY" : 90,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "menu:bg.png"
+        }
+    }
+}

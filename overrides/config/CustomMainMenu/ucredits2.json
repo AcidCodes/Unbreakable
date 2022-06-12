@@ -1,0 +1,195 @@
+{  
+    "buttons":
+    {
+        "next_page":
+        {
+            "text" : "Next Page",
+            "posX" : 55,
+            "posY" : 250,
+            "width" : 98,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.ucredits3"
+            }
+        },
+        
+        "back_menu":
+        {
+            "text" : "Exit",
+            "posX" : -45,
+            "posY" : 250,
+            "width" : 98,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.mainmenu"
+            }
+        },
+        
+        "previous_page":
+        {
+            "text" : "Previous Page",
+            "posX" : -145,
+            "posY" : 250,
+            "width" : 98,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.ucredits1"
+            }
+        }
+        
+    },
+    
+    "labels":
+    {
+        "Assets":
+        {
+            "text" : "Assets",
+            "posX" : -22,
+            "posY" : -250,
+            "color" : -1,
+            "fontSize" : 2, 
+            "alignment" : "center"
+        },
+
+        "1":
+        {
+            "text" : "Modpack Logo",
+            "posX" : -40,
+            "posY" : -160,
+            "color" : -1,
+            "fontSize" : 1.5, 
+            "alignment" : "center"
+        },
+        
+        "2":
+        {
+            "text" : "AcidPlays",
+            "posX" : -15,
+            "posY" : -140,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "3":
+        {
+            "text" : "Hyperpix(Fonts and PSD)",
+            "posX" : -45,
+            "posY" : -130,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "4":
+        {
+            "text" : "Custom Items",
+            "posX" : -35,
+            "posY" : -100,
+            "color" : -1,
+            "fontSize" : 1.5, 
+            "alignment" : "center"
+        },
+
+        "6":
+        {
+            "text" : "AcidPlays based on the Work from:",
+            "posX" : -65,
+            "posY" : -80,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "5":
+        {
+            "text" : "_ForgeUser7772252",
+            "posX" : -35,
+            "posY" : -70,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "7":
+        {
+            "text" : "Mojang",
+            "posX" : -10,
+            "posY" : -60,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "8":
+        {
+            "text" : "RWTema",
+            "posX" : -15,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "10":
+        {
+            "text" : "Erasmus_Crowley",
+            "posX" : -30,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "11":
+        {
+            "text" : "CyanideX",
+            "posX" : -15,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "9":
+        {
+            "text" : "brandon3055",
+            "posX" : -22,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "center"
+        },
+
+        "12":
+        {
+            "text" : "Menu Backgrounds",
+            "posX" : -55,
+            "posY" : 10,
+            "color" : -1,
+            "fontSize" : 1.5,
+            "alignment" : "center"
+        },
+
+        "13":
+        {
+            "text" : "Mojang",
+            "posX" : -10,
+            "posY" : 30,
+            "color" : -1,
+            "alignment" : "center"
+        }
+
+
+    },
+    
+    "other":
+    {
+        
+        "background":
+        {
+            "image" : "menu:obsidian.png",
+            "mode" : "tile"
+        }
+    }
+}

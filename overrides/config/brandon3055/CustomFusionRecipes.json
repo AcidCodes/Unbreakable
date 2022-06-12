@@ -1,0 +1,605 @@
+[
+    {
+        "mode": "ADD",
+        "result": "minecraft:bedrock,4",
+        "catalyst": "minecraft:obsidian",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:creative_rf_source",
+            "refinedstorage:controller,1,1",
+
+
+            "pneumaticcraft:creative_compressor",
+            "danknull:dank_null_6",
+            "extrautils2:passivegenerator,1,6",
+            "embers:creative_ember_source",
+            "nuclearcraft:block_ice",
+            "extendedcrafting:storage,1,4",
+            "environmentaltech:modifier_creative_flight",
+            "deepmoblearning:infused_ingot_block",
+            "enderio:block_infinity,1,2",
+            "extendedcrafting:singularity_ultimate",
+            "parachronology:displacer,1,2",
+
+            "projecte:dm_pedestal",
+            "astralsorcery:blockaltar,1,3",
+
+            "thermalfoundation:material,1,1028",
+            
+            "fluxnetworks:gargantuanfluxstorage",
+            "rftools:shield_block4",
+            "environmentaltech:solar_cont_6",
+            "matteroverdrive:fusion_reactor_controller",
+            "industrialforegoing:laser_base"
+        ]
+    },
+
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:creative_rf_source",
+        "catalyst": "draconicevolution:draconium_capacitor,1,2",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "extendedcrafting:singularity_ultimate",
+            "extendedcrafting:singularity_ultimate",
+            "extrautils2:rainbowgenerator",
+            "extrautils2:rainbowgenerator",
+            "thermaldynamics:duct_0,1,5",
+            "thermaldynamics:duct_0,1,5",
+            "mekanismgenerators:reactor",
+            "draconicevolution:reactor_core",
+            "thermaldynamics:duct_0,1,5",
+            "thermaldynamics:duct_0,1,5",
+            "matteroverdrive:fusion_reactor_controller",
+            "nuclearcraft:salt_fission_controller",
+            "extrautils2:rainbowgenerator",
+            "extrautils2:rainbowgenerator",
+            "extendedcrafting:storage,1,4",
+            "extendedcrafting:storage,1,4"
+        ]
+    },
+
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_helm",
+        "catalyst": "draconicevolution:draconic_helm"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_chest",
+        "catalyst": "draconicevolution:draconic_chest"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_legs",
+        "catalyst": "draconicevolution:draconic_legs"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_boots",
+        "catalyst": "draconicevolution:draconic_boots"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_helm",
+        "catalyst": "projecte:item.pe_gem_armor_3",
+        "energy": 100000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_capacitor"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_chest",
+        "catalyst": "projecte:item.pe_gem_armor_2",
+        "energy": 100000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_capacitor"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_legs",
+        "catalyst": "projecte:item.pe_gem_armor_1",
+        "energy": 100000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_capacitor"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_boots",
+        "catalyst": "projecte:item.pe_gem_armor_0",
+        "energy": 100000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_capacitor"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_helmet",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "energy": 200000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,56",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,12",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_capacitor_melodic"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_chestplate",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "energy": 200000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,56",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,12",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_capacitor_melodic"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_leggings",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "energy": 200000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,56",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,12",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_capacitor_melodic"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "energy": 200000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,56",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_material,1,12",
+            "enderio:item_alloy_ingot,1,8",
+            "enderio:item_capacitor_melodic"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "mekanismtools:obsidianhelmet",
+        "catalyst": "enderio:item_end_steel_helmet",
+        "energy": 300000,
+        "tier": 1,
+        "ingredients": [
+            "mekanism:ingot",
+            "mekanism:atomicalloy",
+            "mekanism:ingot",
+            "mekanism:controlcircuit,1,3",
+            "mekanism:ingot",
+            "mekanism:tierinstaller,1,3"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "mekanismtools:obsidianchestplate",
+        "catalyst": "enderio:item_end_steel_chestplate",
+        "energy": 300000,
+        "tier": 1,
+        "ingredients": [
+            "mekanism:ingot",
+            "mekanism:atomicalloy",
+            "mekanism:ingot",
+            "mekanism:controlcircuit,1,3",
+            "mekanism:ingot",
+            "mekanism:tierinstaller,1,3"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "mekanismtools:obsidianleggings",
+        "catalyst": "enderio:item_end_steel_leggings",
+        "energy": 300000,
+        "tier": 1,
+        "ingredients": [
+            "mekanism:ingot",
+            "mekanism:atomicalloy",
+            "mekanism:ingot",
+            "mekanism:controlcircuit,1,3",
+            "mekanism:ingot",
+            "mekanism:tierinstaller,1,3"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "mekanismtools:obsidianboots",
+        "catalyst": "enderio:item_end_steel_boots",
+        "energy": 300000,
+        "tier": 1,
+        "ingredients": [
+            "mekanism:ingot",
+            "mekanism:atomicalloy",
+            "mekanism:ingot",
+            "mekanism:controlcircuit,1,3",
+            "mekanism:ingot",
+            "mekanism:tierinstaller,1,3"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_stellar_alloy_helmet",
+        "catalyst": "mekanismtools:obsidianhelmet",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,43",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_capacitor_stellar",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,13"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_stellar_alloy_chestplate",
+        "catalyst": "mekanismtools:obsidianchestplate",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,43",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_capacitor_stellar",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,13"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_stellar_alloy_leggings",
+        "catalyst": "mekanismtools:obsidianleggings",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,43",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_capacitor_stellar",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,13"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_stellar_alloy_boots",
+        "catalyst": "mekanismtools:obsidianboots",
+        "energy": 400000,
+        "tier": 1,
+        "ingredients": [
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,43",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_capacitor_stellar",
+            "enderio:item_alloy_endergy_ingot,1,3",
+            "enderio:item_material,1,13"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "enderio:item_stellar_alloy_helmet",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconium_capacitor,1,1"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "enderio:item_stellar_alloy_chestplate",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconium_capacitor,1,1"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "enderio:item_stellar_alloy_leggings",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconium_capacitor,1,1"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "enderio:item_stellar_alloy_boots",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconium_capacitor,1,1"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_helm",
+        "catalyst": "draconicevolution:draconic_helm",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicevolution:chaotic_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaotic_energy_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaos_container"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_chest",
+        "catalyst": "draconicevolution:draconic_chest",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicevolution:chaotic_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaotic_energy_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaos_container"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_legs",
+        "catalyst": "draconicevolution:draconic_legs",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicevolution:chaotic_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaotic_energy_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaos_container"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_boots",
+        "catalyst": "draconicevolution:draconic_boots",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicevolution:chaotic_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaotic_energy_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaos_container"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "overloaded:multi_helmet",
+        "catalyst": "draconicevolution:draconic_helm",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "ore:blockNetherStar",
+            "overloaded:energy_core",
+            "ore:blockNetherStar",
+            "overloaded:fluid_core",
+            "ore:blockNetherStar",
+            "overloaded:item_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "overloaded:multi_chestplate",
+        "catalyst": "draconicevolution:draconic_chest",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "ore:blockNetherStar",
+            "overloaded:energy_core",
+            "ore:blockNetherStar",
+            "overloaded:fluid_core",
+            "ore:blockNetherStar",
+            "overloaded:item_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "overloaded:multi_leggings",
+        "catalyst": "draconicevolution:draconic_legs",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "ore:blockNetherStar",
+            "overloaded:energy_core",
+            "ore:blockNetherStar",
+            "overloaded:fluid_core",
+            "ore:blockNetherStar",
+            "overloaded:item_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "overloaded:multi_boots",
+        "catalyst": "draconicevolution:draconic_boots",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "ore:blockNetherStar",
+            "overloaded:energy_core",
+            "ore:blockNetherStar",
+            "overloaded:fluid_core",
+            "ore:blockNetherStar",
+            "overloaded:item_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "contenttweaker:chaotic_draconium_block,4",
+        "catalyst": "draconicevolution:draconic_block,4",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicadditions:chaos_heart",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_energy_core",
+        "catalyst": "draconicevolution:chaos_shard"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:chaotic_core",
+        "catalyst": "draconicevolution:chaos_shard"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_staff_of_power"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_bow",
+        "catalyst": "draconicevolution:draconic_bow"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_staff_of_power",
+        "energy": 16000000,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:chaotic_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaotic_energy_core",
+            "contenttweaker:chaotic_draconium_ingot"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_bow",
+        "catalyst": "draconicevolution:draconic_bow",
+        "energy": 16000000,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:chaotic_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicadditions:chaotic_energy_core",
+            "contenttweaker:chaotic_draconium_ingot"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:chaotic_core",
+        "catalyst": "draconicevolution:chaos_shard",
+        "energy": 10000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "contenttweaker:chaotic_draconium_ingot",
+            "contenttweaker:chaotic_draconium_ingot",
+            "contenttweaker:chaotic_draconium_ingot",
+            "contenttweaker:chaotic_draconium_ingot",
+            "contenttweaker:chaotic_draconium_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core"
+        ]
+    }
+
+]

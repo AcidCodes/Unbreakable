@@ -1,0 +1,153 @@
+{  
+    "buttons":
+    {
+        "next_page":
+        {
+            "text" : "Next Page",
+            "posX" : 55,
+            "posY" : 250,
+            "width" : 98,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.ucredits2"
+            }
+        },
+        
+        "back_menu":
+        {
+            "text" : "Exit",
+            "posX" : -45,
+            "posY" : 250,
+            "width" : 98,
+            "height" : 20,
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.mainmenu"
+            }
+        },
+        
+        "previous_page":
+        {
+            "text" : "Previous Page",
+            "posX" : -145,
+            "posY" : 250,
+            "width" : 98,
+            "height" : 20,
+            "alignment" : "center"
+        }
+        
+    },
+    
+    "labels":
+    {
+        "Game and Mods":
+        {
+            "text" : "Game and Mods",
+            "posX" : -55,
+            "posY" : -250,
+            "color" : -1,
+            "fontSize" : 1.5,
+            "alignment" : "center"
+        },
+
+        "1":
+        {
+            "text" : "Mojang AB     TheRealP455w0rd     Lothrazar     Shadows_of_Fire     squeek     HellFirePvP     wiiv     Vazkii     SkySom     Lanse505     Jared     EwyBoy     iChun     Azanor     Elucent     EpicSquid     Blargerist     superckl",
+            "posX" : 5,
+            "posY" : -460,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        
+        "2":
+        {
+            "text" : "Davenonymous     brandon3055     Direwolf20     tterrag     Drullkus     minecreatr     Jaredlll08     ChickenBones     covers1624     TeamCOFH     BlayTheNinth     Corail31     zlainsama     CDA_Gaming     StanHebben",
+            "posX" : 15,
+            "posY" : -420,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        
+        "3":
+        {
+            "text" : "CreativeMD     N247S     BlakeBr0     lumien     chylex     IterationFunk     FoxMcloud5655     OreCruncher     Abastro     BordListian     AlexisMachina     ShadowGamerXY     werty1124     Darkhax     CrazyPants",
+            "posX" : 20,
+            "posY" : -380,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "4":
+        {
+            "text" : "CyanideX     HenryLoenwind     MatthiasM     ValkyrieofNight     RWTema     TominoCZ     Olafski     SonarSonic     BloCamLimb     cpw     LexManos     Player     LatvianModder     pupnewfster     GhostGaming_HD",
+            "posX" : 20,
+            "posY" : -340,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "5":
+        {
+            "text" : "Buuz135     Jimeo Wan     Kobata     gr8pefish     techbrew     mysticdrew     Towdium     masa     mezz     crazysnailboy     LogicTechCorp     Shana     Ordinastie     PaleoCrafter     AlmuraDev     Coded     Shadowfacts",
+            "posX" : 15,
+            "posY" : -300,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "6":
+        {
+            "text" : "Horizon Studio     Simeon Radivoev     Kobata     Dev_Osmium     McJty     aidancbrady     thommy101     thiakil     dizzyd     MCP Team     fry     GenDeathrow     Darkosto     feldim2425     Quetzi     YaLTeR",
+            "posX" : 37,
+            "posY" : -260,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "7":
+        {
+            "text" : "ChaosTheDude     Eleazzaar     Nazenn     Vlakk     AnarchCassius     LapisWhovian     misterslime     MCvinnyq     Cameron     Luwin     fewizz     tomdodd4598     Mikee     NeverCast     boq     Lyqyd     Funwayguy",
+            "posX" : 20,
+            "posY" : -220,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "8":
+        {
+            "text" : "cjm721     LocusWay     Tfarecmin     Pamela Collins     ZenDarva     jellysquid     desht     MineMaarten     Yesterday17     skinkillerj     Moze_Intel     TheRandomLabs     TechnicianLP     modmuss50     Gigabit101",
+            "posX" : 25,
+            "posY" : -180,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "9":
+        {
+            "text" : "Prospector     quaternary     bre2el     TheRoBrit     Cazsius     Talonos     juliand665     Face_of_Cat     DrManganese     EndlesNights     xalcon     WanionCane     ElektroKill     asie",
+            "posX" : 92,
+            "posY" : -140,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+
+
+
+
+    },
+    
+    "other":
+    {
+        
+        "background":
+        {
+            "image" : "menu:obsidian.png",
+            "mode" : "tile"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:cube",
+    "textures": {
+      "particle": "contenttweaker:blocks/chaotic_draconium_block",
+      "down": "contenttweaker:blocks/chaotic_draconium_block",
+      "up": "contenttweaker:blocks/chaotic_draconium_block",
+      "north": "contenttweaker:blocks/chaotic_draconium_block_side",
+      "south": "contenttweaker:blocks/chaotic_draconium_block_side",
+      "east": "contenttweaker:blocks/chaotic_draconium_block_side",
+      "west": "contenttweaker:blocks/chaotic_draconium_block_side"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal":[{}],
+    "inventory":[{}]
+  }
+}

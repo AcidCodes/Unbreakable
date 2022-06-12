@@ -1,0 +1,17 @@
+item.contenttweaker.dirt_dust.name=Dirt Dust
+item.contenttweaker.cobble_pebble.name=Stone Pebble
+item.contenttweaker.andesite_pebble.name=Andesite Pebble
+item.contenttweaker.granite_pebble.name=Granite Pebble
+item.contenttweaker.diorite_pebble.name=Diorite Pebble
+item.contenttweaker.grains_and_stellar.name=Grains and Stellar
+fluid.liquid_cobblestone=Liquid Cobblestone
+item.contenttweaker.cmill_p1.name=Creative Mill (Top Left)
+item.contenttweaker.cmill_p2.name=Creative Mill (Top Right)
+item.contenttweaker.cmill_p3.name=Creative Mill (Bottom Right)
+item.contenttweaker.cmill_p4.name=Creative Mill (Bottom Left)
+tile.contenttweaker.unstable_controller.name=Unstable Controller
+item.contenttweaker.ultimate_sword.name=The Ultimate Sword
+item.contenttweaker.chaotic_draconium_ingot.name=Chaotic Draconium Ingot
+item.contenttweaker.chaotic_draconium_nugget.name=Chaotic Draconium Nugget
+tile.contenttweaker.chaotic_draconium_block.name=Chaotic Draconium Block
+fluid.lymphatic_chaos=Lymphatic Chaos

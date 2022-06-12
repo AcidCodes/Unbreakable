@@ -1,0 +1,24 @@
+{
+    "machine": "chaos_chamber",
+    "registryName": "chaos_chamber_melt_tiny",
+    "recipeTime": 25,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "draconicevolution:chaos_shard@3",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "output",
+            "fluid": "lymphatic_chaos",
+            "amount": 100
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 332254
+        }
+    ]
+}

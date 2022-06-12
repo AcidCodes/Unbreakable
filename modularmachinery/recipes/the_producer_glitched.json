@@ -1,0 +1,60 @@
+{
+    "machine": "the_producer",
+    "registryName": "the_producer_glitched",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "deepmoblearning:infused_ingot_block",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "deepmoblearning:infused_ingot_block",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "deepmoblearning:infused_ingot_block",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "deepmoblearning:infused_ingot_block",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:ingotGold",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:gemLapis",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "input",
+            "fluid": "water",
+            "amount": 1000
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "deepmoblearning:glitch_fragment",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 4194304
+        }
+    ]
+}

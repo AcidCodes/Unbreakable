@@ -1,0 +1,30 @@
+{
+    "machine": "chrono_automator_tier3",
+    "registryName": "chrono_automator_tier3_enriched",
+    "recipeTime": 2,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 80
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "minecraft:obsidian",
+            "amount": 8
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "parachronology:enricheddirt",
+            "amount": 8
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "parachronology:moment",
+            "amount": 1
+        }
+    ]
+}

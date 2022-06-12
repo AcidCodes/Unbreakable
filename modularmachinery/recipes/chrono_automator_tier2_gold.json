@@ -1,0 +1,30 @@
+{
+    "machine": "chrono_automator_tier2",
+    "registryName": "chrono_automator_tier2_gold",
+    "recipeTime": 8,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 60
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "ore:oreDiamond",
+            "amount": 8
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "minecraft:gold_block",
+            "amount": 8
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "parachronology:moment",
+            "amount": 1
+        }
+    ]
+}

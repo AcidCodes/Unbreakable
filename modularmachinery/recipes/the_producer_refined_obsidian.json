@@ -1,0 +1,48 @@
+{
+    "machine": "the_producer",
+    "registryName": "the_producer_refined_obsidian",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "ore:blockRefinedObsidian",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "ore:blockRefinedObsidian",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "ore:blockRefinedObsidian",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "ore:blockRefinedObsidian",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:dustRefinedObsidian",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "ore:ingotOsmium",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 4194304
+        }
+    ]
+}

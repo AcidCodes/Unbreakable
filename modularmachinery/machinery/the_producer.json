@@ -1,0 +1,6550 @@
+{
+    "registryname": "the_producer",
+    "localizedname": "THE PRODUCER",
+    "requires-blueprint": true,
+    "parts": [
+        {
+            "x": 3,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:gravitational_stabilizer@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -2,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:gravitational_stabilizer@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "contenttweaker:unstable_controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:gravitational_stabilizer@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "contenttweaker:unstable_controller@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "draconicadditions:chaos_stabilizer_core@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "contenttweaker:unstable_controller@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:gravitational_stabilizer@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "contenttweaker:unstable_controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockoutputbus@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:gravitational_stabilizer@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockinputbus@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 8,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:gravitational_stabilizer@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "refinedstorage:storage@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "contenttweaker:unstable_controller@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "contenttweaker:unstable_controller@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "extrautils2:ineffableglass@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "chisel:futura@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "extrautils2:quarry@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "matteroverdrive:decorative.vent.dark@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "extendedcrafting:trimmed@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -4,
+            "elements": [
+                "nuclearcraft:fission_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "contenttweaker:chaotic_draconium_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "draconicevolution:particle_generator@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "matteroverdrive:decorative.vent.bright@0"
+            ]
+        }
+    ]}

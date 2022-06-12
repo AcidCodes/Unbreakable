@@ -1,0 +1,48 @@
+{
+    "machine": "the_producer",
+    "registryName": "the_producer_aeternalis",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "projecte:fuel_block@2",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "projecte:fuel_block@2",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "projecte:fuel_block@2",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "output",
+            "item": "projecte:fuel_block@2",
+            "amount": 64
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "projecte:item.pe_philosophers_stone",
+            "amount": 1
+        },
+        {
+            "type": "modularmachinery:item",
+            "io-type": "input",
+            "item": "projecte:item.pe_fuel@1",
+            "amount": 4
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 1048576
+        }
+    ]
+}

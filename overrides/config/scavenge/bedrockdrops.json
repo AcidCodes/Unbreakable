@@ -1,0 +1,50 @@
+{
+	"block_pools" :
+	[
+		{
+			"name": "BedrockEmptyHand",
+			"type": {
+				"type": "block",
+				"name": "minecraft:bedrock"
+			},
+			"clicktype": "left",
+			"properties": [
+				{
+					"type": "require_left"
+				},
+				{
+					"type": "drop_items"
+				},
+				{
+					"type": "play_sound",
+					"name": "block.stone.hit"
+				},
+				{
+					"type": "play_sound",
+					"name": "entity.player.big_fall",
+					"pitch": "0.65f",
+					"volume": "0.5f"
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "require_empty_hand"
+				}
+			],
+			"drops": [
+				{
+					"name": "mekanism:sawdust",
+					"weight": 70
+				},
+				{
+					"name": "contenttweaker:dirt_dust",
+					"weight": 40
+				}
+			]
+		}
+
+
+
+    ]
+}

@@ -1,0 +1,14 @@
+//If this file is deleted, a new set of default configs will be generated.
+
+//Sets if the mod should print documentation.
+printDocumentation(false)
+
+//Sets the Topography WorldType as default
+setAsDefaultWorldType()
+
+//Registers a preset. First argument is name, second is the image name, third is a description, fourth is WorldType, fifth is generator options Json.
+justBedrockThings = registerPreset("Just Bedrock Things", "images/jbt", "Basic Flat World made entirely out of Bedrock with some Oil Lakes and Astral Sorcery Structures. PS: It's always Night Time.")
+justBedrockThings.registerDimension(0, "unbreakable/just_bedrock_things")
+
+BedrockLava = registerPreset("Bedrock and Lava", "images/bal", "Same as before, but with Lava Lakes in addition to everything else.")
+BedrockLava.registerDimension(0, "unbreakable/bedrock_and_lava")

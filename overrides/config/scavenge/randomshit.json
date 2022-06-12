@@ -1,0 +1,147 @@
+{
+	"block_pools" :
+	[
+		{
+			"name": "LeaveGrass",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:grass"
+			},
+			"clicktype": "left",
+			"properties":
+			[
+				{
+					"type": "require_left"
+				},
+				{
+					"type": "drop_items"
+				},
+				{
+					"type": "damage_item",
+					"amount": "1"
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "play_sound",
+					"name": "block.stone.hit"
+				},
+				{
+					"type": "require_item_list",
+					"items": [
+						{"name": "extrautils2:wateringcan"}
+					]
+				}
+			],
+			"drops":
+			[
+				{
+					"name": "minecraft:leaves",
+					"chance": 80
+				}
+			]
+		},
+
+        {
+			"name": "DirtGrass",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:dirt"
+			},
+			"clicktype": "right",
+			"properties":
+			[
+				{
+					"type": "drop_items"
+				},
+				{
+					"type": "damage_item",
+					"amount": "1"
+				},
+				{
+					"type": "swing_hand"
+				},
+                {
+					"type": "require_sneak"
+				},
+				{
+					"type": "play_sound",
+					"name": "block.stone.hit"
+				},
+                {
+					"type": "consume_block",
+					"chance": "100.0",
+					"name": "minecraft:grass"
+				},
+				{
+					"type": "require_item_list",
+					"items": [
+						{"name": "extrautils2:wateringcan"}
+					]
+				}
+			],
+			"drops":
+			[
+				{
+					"name": "minecraft:leaves",
+					"chance": 0
+				}
+			]
+		},
+
+		{
+			"name": "MarblePebble",
+			"type":
+			{
+				"type": "block",
+				"name": "astralsorcery:blockmarble"
+			},
+			"clicktype": "left",
+			"properties":
+			[
+				{
+					"type": "require_left"
+				},
+				{
+					"type": "drop_items"
+				},
+				{
+					"type": "damage_item",
+					"amount": "1"
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "play_sound",
+					"name": "block.stone.hit"
+				},
+				{
+					"type": "require_empty_hand"
+				}
+			],
+			"drops":
+			[
+				{
+					"name": "contenttweaker:cobble_pebble",
+					"weight": 25
+				},
+				{
+					"name": "contenttweaker:diorite_pebble",
+					"weight": 25
+				},
+				{
+					"name": "contenttweaker:andesite_pebble",
+					"weight": 25
+				},
+				{
+					"name": "contenttweaker:granite_pebble",
+					"weight": 25
+				}
+			]
+		}
+    ]
+}

@@ -1,0 +1,98 @@
+{
+	"frame": {
+		"type": "VERTICAL",
+		"size": {
+			"lateral": {
+				"minWidth": 3,
+				"maxWidth": 3,
+				"minHeight": 3,
+				"maxHeight": 3
+			},
+			"verticalX": {
+				"minWidth": 4,
+				"maxWidth": 2147483647,
+				"minHeight": 5,
+				"maxHeight": 2147483647
+			},
+			"verticalZ": {
+				"minWidth": 4,
+				"maxWidth": 2147483647,
+				"minHeight": 5,
+				"maxHeight": 2147483647
+			}
+		},
+		"blocks": [
+			{
+				"registryName": "extrautils2:decorativebedrock",
+				"meta": 32767,
+				"minimumAmount": 14
+			}
+		],
+		"requiredCorner": "SAME",
+		"cornerBlocksContributeToMinimumAmount": true,
+		"doGeneratedFramesDrop": true
+	},
+	"activation": {
+		"canBeActivatedByFire": false,
+		"activators": [
+			{
+				"registryName": "contenttweaker:grains_and_stellar",
+				"meta": 32767
+			}
+		],
+		"activatorConsumeBehavior": "CONSUME",
+		"spawnFireBeforeActivating": true,
+		"activationSounds": [
+			"minecraft:entity.wither.death"
+		]
+	},
+	"color": {
+		"colors": [
+			"GRAY"
+		],
+		"dyeBehavior": "DISABLE"
+	},
+	"destination": {
+		"dimensionID": 9,
+		"locationDetectionBehavior": "USE_INITIAL",
+		"initialLocation": {
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"useTopSolidY": true
+		},
+		"coordinateMultiplier": 1.0,
+		"teleportToPortal": true,
+		"oneWay": false,
+		"ensureReturnToSameDimension": true,
+		"generatePortalIfNotFound": true,
+		"portalGenerationBehavior": "CLONE",
+		"generatedFrameType": "SAME",
+		"generatedFrameSize": {
+			"lateral": {
+				"minWidth": 0,
+				"maxWidth": 3,
+				"minHeight": 0,
+				"maxHeight": 3
+			},
+			"verticalX": {
+				"minWidth": 0,
+				"maxWidth": 3,
+				"minHeight": 0,
+				"maxHeight": 3
+			},
+			"verticalZ": {
+				"minWidth": 0,
+				"maxWidth": 3,
+				"minHeight": 0,
+				"maxHeight": 3
+			}
+		}
+	},
+	"teleportationDelay": {
+		"lateral": 1,
+		"verticalX": 0,
+		"verticalZ": 0
+	},
+	"decorative": false
+}

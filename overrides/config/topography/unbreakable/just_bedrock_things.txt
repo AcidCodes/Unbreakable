@@ -1,0 +1,16 @@
+//Creates a new LayerGenerator and saves it as a variable
+bedrock = new LayerGenerator()
+
+//Adds a layer of bedrock from y 0 to y 64
+bedrock.addLayer(0~64, <minecraft:bedrock>)
+
+//Adds the layer generator to the dimension
+addGenerator(bedrock)
+
+//Sets a static celestial angle so it's always night
+setCelestialAngle(0.5)
+
+//Disables clouds.
+disableClouds()
+
+captureTeleports()

@@ -1,0 +1,52 @@
+{
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 219,
+			TrophyVariant: "neon",
+			TrophyShowsTooltip: 1b,
+			TrophyItem: {
+				id: "extendedcrafting:table_elite",
+				Count: 1b,
+				Damage: 0s
+			},
+			TrophyColorBlue: 237,
+			TrophyName: "Late Game Completed",
+			TrophyColorRed: 19,
+			TrophyEarnedAt: 1634934598L
+		}
+	},
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"5b2956d9"
+	],
+	tasks: [{
+		uid: "67e929a0",
+		type: "checkmark",
+		title: "Late Game Trophy"
+	}],
+	rewards: [{
+		uid: "ab138b55",
+		type: "command",
+		title: "Late Game Complete",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 219,
+				TrophyVariant: "neon",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "extendedcrafting:table_elite",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 237,
+				TrophyName: "Late Game Completed",
+				TrophyColorRed: 19,
+				TrophyEarnedAt: 1634934598L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0  {TrophyName:\"Late Game Completed\",TrophyVariant:\"neon\",TrophyItem:{id:\"extendedcrafting:table_elite\",Count:1b,Damage:0s},TrophyColorRed:19,TrophyColorGreen:219,TrophyColorBlue:237}"
+	}]
+}

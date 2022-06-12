@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	dependencies: [
+		"71d750bd"
+	],
+	tasks: [{
+		uid: "f35c79e8",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:block_ice"
+		}]
+	}]
+}

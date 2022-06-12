@@ -1,0 +1,13 @@
+{
+	title: "Chrono Displacer Tier 1",
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "5e653775",
+		type: "item",
+		items: [{
+			item: "parachronology:displacer"
+		}],
+		only_from_crafting: true
+	}]
+}

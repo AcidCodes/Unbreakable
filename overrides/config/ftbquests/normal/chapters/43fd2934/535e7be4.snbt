@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"e35e9fbe"
+	],
+	optional: true,
+	tasks: [{
+		uid: "4c522a8b",
+		type: "item",
+		items: [{
+			item: "embers:creative_ember_source"
+		}]
+	}]
+}

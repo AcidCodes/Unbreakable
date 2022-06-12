@@ -1,0 +1,23 @@
+{
+	title: "Nether Adventure",
+	icon: "minecraft:nether_star",
+	x: 2.0d,
+	y: 0.5d,
+	dependencies: [
+		"ec83d2df"
+	],
+	tasks: [{
+		uid: "3bcda606",
+		type: "dimension",
+		title: "Go To The Nether",
+		dim: -1
+	},
+	{
+		uid: "c6790fab",
+		type: "kill",
+		title: "Kill The Wither",
+		icon: "minecraft:skull 1 1",
+		entity: "minecraft:wither",
+		value: 1L
+	}]
+}

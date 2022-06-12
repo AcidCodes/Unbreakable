@@ -1,0 +1,27 @@
+{
+	icon: "minecraft:iron_bars",
+	x: 1.5d,
+	y: -2.5d,
+	text: [
+		"Build the Chrono Automator Tier 1 using the",
+		"Rewarded Blueprint."
+	],
+	dependencies: [
+		"5442bd4e"
+	],
+	tasks: [{
+		uid: "63b14d2f",
+		type: "checkmark",
+		title: "Chrono Automator Tier 1"
+	}],
+	rewards: [{
+		uid: "d28cb669",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:chrono_automator_tier1"
+			}
+		}
+	}]
+}

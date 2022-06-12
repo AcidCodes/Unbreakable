@@ -1,0 +1,26 @@
+{
+	icon: "parachronology:petrifiedwooditem",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Build the Petrifier using the Rewarded Blueprint."
+	],
+	dependencies: [
+		"6a836c09"
+	],
+	tasks: [{
+		uid: "1e911533",
+		type: "checkmark",
+		title: "Petrifier"
+	}],
+	rewards: [{
+		uid: "a997d3ba",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:petrifier"
+			}
+		}
+	}]
+}

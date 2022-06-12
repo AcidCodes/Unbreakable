@@ -1,0 +1,52 @@
+{
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 199,
+			TrophyVariant: "neon",
+			TrophyShowsTooltip: 1b,
+			TrophyItem: {
+				id: "extendedcrafting:table_basic",
+				Count: 1b,
+				Damage: 0s
+			},
+			TrophyColorBlue: 199,
+			TrophyName: "Early Game Completed",
+			TrophyColorRed: 199,
+			TrophyEarnedAt: 1634934597L
+		}
+	},
+	x: 0.0d,
+	y: -1.0d,
+	dependencies: [
+		"6a836c09"
+	],
+	tasks: [{
+		uid: "66619b41",
+		type: "checkmark",
+		title: "Early Game Trophy"
+	}],
+	rewards: [{
+		uid: "cfa45279",
+		type: "command",
+		title: "Early Game Completed",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 199,
+				TrophyVariant: "neon",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "extendedcrafting:table_basic",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 199,
+				TrophyName: "Early Game Completed",
+				TrophyColorRed: 199,
+				TrophyEarnedAt: 1634934597L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyName:\"Early Game Completed\",TrophyVariant:\"neon\",TrophyItem:{id:\"extendedcrafting:table_basic\",Count:1b,Damage:0s},TrophyColorRed:199,TrophyColorGreen:199,TrophyColorBlue:199}"
+	}]
+}

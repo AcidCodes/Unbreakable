@@ -1,0 +1,28 @@
+{
+	title: "Chrono Displacer Tier 3",
+	icon: "parachronology:displacer 1 2",
+	x: 6.5d,
+	y: 0.5d,
+	dependencies: [
+		"9c82de58"
+	],
+	tasks: [{
+		uid: "0eaa69db",
+		type: "item",
+		items: [{
+			item: "parachronology:displacer 1 2"
+		}]
+	},
+	{
+		uid: "1440879b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "parachronology:upgrade",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

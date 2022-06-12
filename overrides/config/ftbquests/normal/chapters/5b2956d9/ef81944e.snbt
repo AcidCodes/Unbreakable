@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	dependencies: [
+		"48d4ec8f"
+	],
+	tasks: [{
+		uid: "770fa15a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:crafting_core"
+		}],
+		only_from_crafting: true
+	}]
+}

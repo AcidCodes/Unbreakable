@@ -1,0 +1,56 @@
+{
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 0,
+			TrophyVariant: "gold",
+			TrophyShowsTooltip: 1b,
+			TrophyItem: {
+				id: "randomportals:gray_vertical_nether_portal",
+				Count: 1b,
+				Damage: 0s
+			},
+			TrophyColorBlue: 214,
+			TrophyName: "PACK COMPLETED",
+			TrophyColorRed: 96,
+			TrophyEarnedAt: 1634934599L
+		}
+	},
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"333677dc",
+		"124beb48",
+		"232cff3f",
+		"61641a81"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "27863848",
+		type: "checkmark",
+		title: "PACK COMPLETE"
+	}],
+	rewards: [{
+		uid: "f19af551",
+		type: "command",
+		title: "PACK COMPLETED",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 0,
+				TrophyVariant: "gold",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "randomportals:gray_vertical_nether_portal",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 214,
+				TrophyName: "PACK COMPLETED",
+				TrophyColorRed: 96,
+				TrophyEarnedAt: 1634934599L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0  {TrophyName:\"PACK COMPLETED\",TrophyVariant:\"gold\",TrophyItem:{id:\"randomportals:gray_vertical_nether_portal\",Count:1b,Damage:0s},TrophyColorRed:96,TrophyColorGreen:0,TrophyColorBlue:214}"
+	}]
+}

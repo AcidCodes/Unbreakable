@@ -1,0 +1,31 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"1aea5c90"
+	],
+	optional: true,
+	tasks: [{
+		uid: "4ce27b32",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "contenttweaker:ultimate_sword",
+			tag: {
+				AttributeModifiers: [{
+					UUIDMost: -3090993949746576134L,
+					UUIDLeast: -7491689365994651388L,
+					Amount: 2.147483647E9d,
+					Slot: "mainhand",
+					AttributeName: "generic.attackDamage",
+					Operation: 0,
+					Name: "generic.attackDamage"
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

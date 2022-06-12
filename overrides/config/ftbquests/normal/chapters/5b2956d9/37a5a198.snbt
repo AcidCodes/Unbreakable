@@ -1,0 +1,15 @@
+{
+	title: "Awakend Draconium",
+	x: 1.5d,
+	y: -0.5d,
+	dependencies: [
+		"be0a905c"
+	],
+	tasks: [{
+		uid: "428531a7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_block"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "End Adventure",
+	icon: "minecraft:skull 1 5",
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"60fbcc87"
+	],
+	tasks: [{
+		uid: "133da46b",
+		type: "dimension",
+		title: "Go To The End",
+		dim: 1
+	},
+	{
+		uid: "5e765d09",
+		type: "kill",
+		title: "Kill The Ender Dragon",
+		icon: "minecraft:skull 1 5",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: 0.0d,
+	dependencies: [
+		"5f719ba2"
+	],
+	tasks: [{
+		uid: "031496d5",
+		type: "checkmark",
+		title: "THE PRODUCER"
+	}],
+	rewards: [{
+		uid: "a6695dcb",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:the_producer"
+			}
+		}
+	}]
+}

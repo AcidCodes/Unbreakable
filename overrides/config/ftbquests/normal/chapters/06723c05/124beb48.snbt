@@ -1,0 +1,52 @@
+{
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 242,
+			TrophyVariant: "neon",
+			TrophyShowsTooltip: 1b,
+			TrophyItem: {
+				id: "extendedcrafting:table_advanced",
+				Count: 1b,
+				Damage: 0s
+			},
+			TrophyColorBlue: 0,
+			TrophyName: "Mid Game Completed",
+			TrophyColorRed: 255,
+			TrophyEarnedAt: 1634934597L
+		}
+	},
+	x: 2.0d,
+	y: 1.0d,
+	dependencies: [
+		"ea21d504"
+	],
+	tasks: [{
+		uid: "ece317ba",
+		type: "checkmark",
+		title: "Mid Game Trophy"
+	}],
+	rewards: [{
+		uid: "cc687a2b",
+		type: "command",
+		title: "Mid Game Completed",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 242,
+				TrophyVariant: "neon",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "extendedcrafting:table_advanced",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 0,
+				TrophyName: "Mid Game Completed",
+				TrophyColorRed: 255,
+				TrophyEarnedAt: 1634934597L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0  {TrophyName:\"Mid Game Completed\",TrophyVariant:\"neon\",TrophyItem:{id:\"extendedcrafting:table_advanced\",Count:1b,Damage:0s},TrophyColorRed:255,TrophyColorGreen:242,TrophyColorBlue:0}"
+	}]
+}

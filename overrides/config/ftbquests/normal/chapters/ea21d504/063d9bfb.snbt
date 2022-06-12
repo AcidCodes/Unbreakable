@@ -1,0 +1,22 @@
+{
+	x: 4.5d,
+	y: 2.5d,
+	dependencies: [
+		"f50eacca"
+	],
+	optional: true,
+	tasks: [{
+		uid: "de7a02d6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:chickenring",
+			Damage: 1s
+		}],
+		consume_items: false,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

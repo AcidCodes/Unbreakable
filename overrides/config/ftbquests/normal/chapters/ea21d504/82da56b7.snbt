@@ -1,0 +1,27 @@
+{
+	icon: "enderio:block_end_iron_bars",
+	x: 4.5d,
+	y: -2.5d,
+	text: [
+		"Build the Chrono Automator Tier 3 using the",
+		"Rewarded Blueprint."
+	],
+	dependencies: [
+		"f8b787d9"
+	],
+	tasks: [{
+		uid: "bc8a2cba",
+		type: "checkmark",
+		title: "Chrono Automator Tier 3"
+	}],
+	rewards: [{
+		uid: "e840d707",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:chrono_automator_tier3"
+			}
+		}
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -1.0d,
+	dependencies: [
+		"21aa100c"
+	],
+	tasks: [{
+		uid: "ca0daf20",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_elite"
+		}],
+		only_from_crafting: true
+	}]
+}

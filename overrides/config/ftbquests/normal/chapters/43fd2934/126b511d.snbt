@@ -1,0 +1,36 @@
+{
+	title: "Leaving This Hellhole",
+	icon: "randomportals:gray_vertical_nether_portal",
+	x: 6.5d,
+	y: 1.0d,
+	dependencies: [
+		"9eb3d6ed"
+	],
+	tasks: [{
+		uid: "147e27d8",
+		type: "item",
+		items: [{
+			item: "minecraft:bedrock"
+		}],
+		count: 14L
+	},
+	{
+		uid: "ae0b2a49",
+		type: "dimension",
+		title: "Travel To The Overworld",
+		icon: "randomportals:gray_vertical_nether_portal",
+		dim: 9
+	},
+	{
+		uid: "21a76c9e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "contenttweaker:grains_and_stellar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

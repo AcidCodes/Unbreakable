@@ -1,0 +1,52 @@
+{
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 255,
+			TrophyVariant: "neon",
+			TrophyShowsTooltip: 1b,
+			TrophyItem: {
+				id: "extendedcrafting:table_ultimate",
+				Count: 1b,
+				Damage: 0s
+			},
+			TrophyColorBlue: 60,
+			TrophyName: "End Game Completed",
+			TrophyColorRed: 0,
+			TrophyEarnedAt: 1634934598L
+		}
+	},
+	x: -2.0d,
+	y: 1.0d,
+	dependencies: [
+		"43fd2934"
+	],
+	tasks: [{
+		uid: "f5c18ad7",
+		type: "checkmark",
+		title: "End Game Trophy"
+	}],
+	rewards: [{
+		uid: "5a282f7b",
+		type: "command",
+		title: "End Game Complete",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "neon",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "extendedcrafting:table_ultimate",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 60,
+				TrophyName: "End Game Completed",
+				TrophyColorRed: 0,
+				TrophyEarnedAt: 1634934598L
+			}
+		},
+		command: "/give @p simple_trophies:trophy 1 0  {TrophyName:\"End Game Completed\",TrophyVariant:\"neon\",TrophyItem:{id:\"extendedcrafting:table_ultimate\",Count:1b,Damage:0s},TrophyColorRed:0,TrophyColorGreen:255,TrophyColorBlue:60}"
+	}]
+}

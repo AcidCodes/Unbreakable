@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: -2.5d,
+	dependencies: [
+		"a42b004f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e69eb322",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:creative_compressor"
+		}]
+	}]
+}

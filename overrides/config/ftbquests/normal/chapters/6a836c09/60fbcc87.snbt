@@ -1,0 +1,30 @@
+{
+	title: "Chrono Displacer Tier 2",
+	icon: "parachronology:displacer 1 1",
+	x: 3.5d,
+	y: 0.0d,
+	dependencies: [
+		"866f6083"
+	],
+	tasks: [{
+		uid: "18fafd20",
+		type: "item",
+		items: [{
+			item: "parachronology:displacer 1 1"
+		}]
+	},
+	{
+		uid: "1d950020",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -5391783489674620128L,
+					AS_Amulet_HolderMost: 4468296927316231502L
+				}
+			},
+			id: "parachronology:upgrade"
+		}],
+		ignore_nbt: 1b
+	}]
+}

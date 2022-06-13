@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Unbreakable",
-  "version": "1.11r",
+  "version": "1.12",
   "author": "",
   "files": [
     {
@@ -297,6 +297,11 @@
     {
       "projectID": 243076,
       "fileID": 2940914,
+      "required": true
+    },
+    {
+      "projectID": 235279,
+      "fileID": 2915375,
       "required": true
     },
     {

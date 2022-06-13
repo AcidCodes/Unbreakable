@@ -1,0 +1,18 @@
+{
+  "config_version": {
+    "id": "__default",
+    "version": 0
+  },
+  "dimensions": [
+    {
+      "dim": 9,
+      "dimensiontype": {
+        "id": 9,
+        "name": "FakeOverworld",
+        "suffix": "_dim9",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      }
+    }
+  ]
+}

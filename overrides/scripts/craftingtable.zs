@@ -387,3 +387,12 @@ recipes.removeShaped(<extendedcrafting:material:32>, [
 
 //Quartz Block Uncraft
 recipes.addShapeless(<minecraft:quartz> * 4, [<ore:blockQuartz>]);
+
+
+//Comp Sawdust Fix
+recipes.remove(<thermalfoundation:material:801>);
+recipes.addShaped(<thermalfoundation:material:801>, [
+    [<ore:dustWood>, <ore:dustWood>, null],
+    [<ore:dustWood>, <ore:dustWood>, null], 
+    [null, null, null]
+]);

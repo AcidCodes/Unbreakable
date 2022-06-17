@@ -11,13 +11,5 @@
 		type: "dimension",
 		title: "Go To The Nether",
 		dim: -1
-	},
-	{
-		uid: "c6790fab",
-		type: "kill",
-		title: "Kill The Wither",
-		icon: "minecraft:skull 1 1",
-		entity: "minecraft:wither",
-		value: 1L
 	}]
 }

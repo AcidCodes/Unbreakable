@@ -11,20 +11,20 @@
 		type: "item",
 		items: [{
 			item: "parachronology:displacer 1 1"
-		}]
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: false
 	},
 	{
 		uid: "1d950020",
 		type: "item",
 		items: [{
 			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -5391783489674620128L,
-					AS_Amulet_HolderMost: 4468296927316231502L
-				}
+				"astralsorcery:cap_item_amulet_holder": {}
 			},
 			id: "parachronology:upgrade"
 		}],
-		ignore_nbt: 1b
+		ignore_nbt: 1b,
+		only_from_crafting: false
 	}]
 }

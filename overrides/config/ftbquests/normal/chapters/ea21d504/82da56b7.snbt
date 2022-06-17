@@ -6,6 +6,7 @@
 		"Build the Chrono Automator Tier 3 using the",
 		"Rewarded Blueprint."
 	],
+	can_repeat: true,
 	dependencies: [
 		"f8b787d9"
 	],

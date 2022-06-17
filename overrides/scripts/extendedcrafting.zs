@@ -186,7 +186,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:ultimate_sword>
 	[null, null, null, null, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>], 
 	[<extendedcrafting:trimmed:5>, null, null, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, null], 
 	[null, <ore:blockUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, <ore:ingotUltimate>, null, null], 
-	[null, null, <ore:blockUltimate>, <draconicadditions:chaotic_staff_of_power>.withTag({DEUpgrades: {attackDmg: 4 as byte, digSpeed: 4 as byte, digAOE: 4 as byte, rfCap: 4 as byte, attackAOE: 4 as byte}, Energy: 1920000000, isStable: 1 as byte}), <ore:ingotUltimate>, <ore:ingotUltimate>, null, null, null], 
+	[null, null, <ore:blockUltimate>, <draconicadditions:chaotic_staff_of_power>, <ore:ingotUltimate>, <ore:ingotUltimate>, null, null, null], 
 	[null, <ghostsexplosives:rod_uranium>, <ghostsexplosives:rod_uranium>, <ore:blockUltimate>, <ore:ingotUltimate>, null, null, null, null], 
 	[<ghostsexplosives:rod_uranium>, <ghostsexplosives:rod_uranium>, <ghostsexplosives:rod_uranium>, null, <ore:blockUltimate>, null, null, null, null], 
 	[<ghostsexplosives:rod_uranium>, <ghostsexplosives:rod_uranium>, null, null, null, <extendedcrafting:trimmed:5>, null, null, null]

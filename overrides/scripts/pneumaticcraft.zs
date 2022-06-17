@@ -1,5 +1,6 @@
 import mods.pneumaticcraft.pressurechamber;
 import mods.pneumaticcraft.assembly;
+import mods.pneumaticcraft.explosioncrafting;
 
 
 
@@ -9,3 +10,8 @@ mods.pneumaticcraft.pressurechamber.addRecipe([<pneumaticcraft:advanced_pcb> * 6
 
 //Creative Flux Capacitor
 mods.pneumaticcraft.assembly.addLaserRecipe(<enderio:item_material:50>, <minecraft:dye>);
+
+
+//Charged Gunpowder
+recipes.remove(<ghostsexplosives:gunpowder_charged>);
+mods.pneumaticcraft.explosioncrafting.addRecipe(<minecraft:gunpowder>, <ghostsexplosives:gunpowder_charged>, 0);

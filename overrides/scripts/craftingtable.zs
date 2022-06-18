@@ -390,11 +390,9 @@ recipes.addShapeless(<minecraft:quartz> * 4, [<ore:blockQuartz>]);
 
 
 //Comp Sawdust Fix
-recipes.remove(<thermalfoundation:material:801>);
 recipes.addShaped(<thermalfoundation:material:801>, [
-    [<ore:dustWood>, <ore:dustWood>, null],
-    [<ore:dustWood>, <ore:dustWood>, null], 
-    [null, null, null]
+    [<ore:dustWood>, <ore:dustWood>],
+    [<ore:dustWood>, <ore:dustWood>]
 ]);
 
 
@@ -433,3 +431,12 @@ recipes.addShaped(<modularmachinery:blockinputbus:5>, [[null, <minecraft:hopper>
 recipes.addShaped(<modularmachinery:blockinputbus:4>, [[null, <minecraft:hopper>, null],[<modularmachinery:itemmodularium>, <modularmachinery:blockinputbus:3>, <modularmachinery:itemmodularium>], [<minecraft:chest>, <modularmachinery:itemmodularium>, <minecraft:chest>]]);
 recipes.addShaped(<modularmachinery:blockinputbus:3>, [[null, <minecraft:hopper>, null],[<modularmachinery:itemmodularium>, <modularmachinery:blockinputbus:2>, <modularmachinery:itemmodularium>], [<minecraft:chest>, <modularmachinery:itemmodularium>, <minecraft:chest>]]);
 recipes.addShaped(<modularmachinery:blockinputbus:2>, [[null, <minecraft:hopper>, null],[<modularmachinery:itemmodularium>, <modularmachinery:blockinputbus:1>, <modularmachinery:itemmodularium>], [<minecraft:chest>, <modularmachinery:itemmodularium>, <minecraft:chest>]]);
+
+
+//Cardboard Box
+//recipes.remove(<mekanism:cardboardbox>);
+/*recipes.addShaped(<mekanism:cardboardbox>, [
+[<ore:dustWood>, <ore:dustWood>, <ore:dustWood>],
+[<ore:dustWood>, <ore:dustWood>, <ore:dustWood>],
+[<ore:dustWood>, <ore:dustWood>, <ore:dustWood>]
+]);*/

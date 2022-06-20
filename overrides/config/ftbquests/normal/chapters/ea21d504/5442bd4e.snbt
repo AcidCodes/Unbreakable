@@ -5,6 +5,7 @@
 	text: [
 		"Build the Petrifier using the Rewarded Blueprint."
 	],
+	can_repeat: true,
 	dependencies: [
 		"6a836c09"
 	],

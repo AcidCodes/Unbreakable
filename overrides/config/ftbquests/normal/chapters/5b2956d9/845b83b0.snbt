@@ -16,7 +16,6 @@
 			tag: {
 				tier: 4
 			}
-		}],
-		ignore_nbt: 1b
+		}]
 	}]
 }

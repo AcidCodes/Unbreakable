@@ -17,7 +17,6 @@
 				tier: 4
 			},
 			Damage: 11s
-		}],
-		ignore_nbt: 1b
+		}]
 	}]
 }
